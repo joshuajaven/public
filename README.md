@@ -16,3 +16,5 @@
 - Solution: Watched a YouTube tutorial on adding extensions on Cursor
 - Problem: Unsure how to create a README.md file
 - Solution: Watched another YouTube tutorial on creating README.md files
+- Problem: Cursor was not identifying the 'git' command in order for me to push this README.md file to GitHub
+- Solution: Watched multiple YouTube tutorials
